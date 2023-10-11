@@ -1,0 +1,245 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop 1",
+        "desc": "Powerful laptop with high-resolution display",
+        "image": "laptop1.jpg",
+        "category": "Laptops",
+        "price": 999.99
+      },
+      {
+        "id": 2,
+        "name": "Desktop PC",
+        "desc": "Custom-built desktop PC for gaming and work",
+        "image": "desktoppc.jpg",
+        "category": "Desktops",
+        "price": 1299.99
+      },
+      {
+        "id": 3,
+        "name": "Smartphone 1",
+        "desc": "High-performance smartphone with AI camera",
+        "image": "smartphone1.jpg",
+        "category": "Smartphones",
+        "price": 599.99
+      },
+      {
+        "id": 4,
+        "name": "Tablet 1",
+        "desc": "Sleek and lightweight tablet for entertainment",
+        "image": "tablet1.jpg",
+        "category": "Tablets",
+        "price": 299.99
+      },
+      {
+        "id": 5,
+        "name": "Gaming Console",
+        "desc": "Next-gen gaming console with 4K support",
+        "image": "gamingconsole.jpg",
+        "category": "Gaming Consoles",
+        "price": 499.99
+      },
+      {
+        "id": 6,
+        "name": "Wireless Mouse",
+        "desc": "Ergonomic wireless mouse for productivity",
+        "image": "wirelessmouse.jpg",
+        "category": "Accessories",
+        "price": 29.99
+      },
+      {
+        "id": 7,
+        "name": "External Hard Drive",
+        "desc": "1TB external hard drive for data storage",
+        "image": "externalhdd.jpg",
+        "category": "Storage",
+        "price": 79.99
+      },
+      {
+        "id": 8,
+        "name": "Bluetooth Headphones",
+        "desc": "Wireless headphones with noise-cancellation",
+        "image": "headphones.jpg",
+        "category": "Audio",
+        "price": 149.99
+      },
+      {
+        "id": 9,
+        "name": "Mechanical Keyboard",
+        "desc": "RGB backlit mechanical keyboard for gaming",
+        "image": "keyboard.jpg",
+        "category": "Keyboards",
+        "price": 79.99
+      },
+      {
+        "id": 10,
+        "name": "Monitor",
+        "desc": "27-inch IPS monitor with thin bezels",
+        "image": "monitor.jpg",
+        "category": "Monitors",
+        "price": 249.99
+      },
+      {
+        "id": 11,
+        "name": "Printer",
+        "desc": "High-quality inkjet printer for home and office",
+        "image": "printer.jpg",
+        "category": "Printers",
+        "price": 129.99
+      },
+      {
+        "id": 12,
+        "name": "Webcam",
+        "desc": "Full HD webcam for video conferencing",
+        "image": "webcam.jpg",
+        "category": "Accessories",
+        "price": 49.99
+      },
+      {
+        "id": 13,
+        "name": "Network Router",
+        "desc": "Dual-band Wi-Fi router for fast internet",
+        "image": "router.jpg",
+        "category": "Networking",
+        "price": 69.99
+      },
+      {
+        "id": 14,
+        "name": "Smartwatch",
+        "desc": "Fitness and health tracking smartwatch",
+        "image": "smartwatch.jpg",
+        "category": "Wearables",
+        "price": 199.99
+      },
+      {
+        "id": 15,
+        "name": "Graphics Card",
+        "desc": "High-end graphics card for gaming and rendering",
+        "image": "graphicscard.jpg",
+        "category": "Components",
+        "price": 399.99
+      },
+      {
+        "id": 16,
+        "name": "Wireless Router",
+        "desc": "Mesh Wi-Fi system for whole-home coverage",
+        "image": "wirelessrouter.jpg",
+        "category": "Networking",
+        "price": 129.99
+      },
+      {
+        "id": 17,
+        "name": "Smart Speaker",
+        "desc": "Voice-controlled smart speaker with AI assistant",
+        "image": "smartspeaker.jpg",
+        "category": "Smart Home",
+        "price": 79.99
+      },
+      {
+        "id": 18,
+        "name": "USB Flash Drive",
+        "desc": "32GB USB flash drive for data transfer",
+        "image": "usbdrive.jpg",
+        "category": "Storage",
+        "price": 14.99
+      },
+      {
+        "id": 19,
+        "name": "Wireless Earbuds",
+        "desc": "True wireless earbuds with touch controls",
+        "image": "earbuds.jpg",
+        "category": "Audio",
+        "price": 79.99
+      },
+      {
+        "id": 20,
+        "name": "VR Headset",
+        "desc": "Virtual reality headset for immersive gaming",
+        "image": "vrheadset.jpg",
+        "category": "Gaming",
+        "price": 299.99
+      },
+      {
+        "id": 21,
+        "name": "Security Camera",
+        "desc": "Outdoor security camera with night vision",
+        "image": "securitycamera.jpg",
+        "category": "Smart Home",
+        "price": 89.99
+      },
+      {
+        "id": 22,
+        "name": "Gaming Keyboard",
+        "desc": "Mechanical gaming keyboard with customizable RGB",
+        "image": "gamingkeyboard.jpg",
+        "category": "Keyboards",
+        "price": 69.99
+      },
+      {
+        "id": 23,
+        "name": "Inkjet Printer",
+        "desc": "Color inkjet printer for high-quality prints",
+        "image": "inkjetprinter.jpg",
+        "category": "Printers",
+        "price": 99.99
+      },
+      {
+        "id": 24,
+        "name": "Bluetooth Speaker",
+        "desc": "Portable Bluetooth speaker for on-the-go music",
+        "image": "bluetoothspeaker.jpg",
+        "category": "Audio",
+        "price": 39.99
+      },
+      {
+        "id": 25,
+        "name": "Wireless Gaming Mouse",
+        "desc": "High-precision wireless gaming mouse",
+        "image": "gamingmouse.jpg",
+        "category": "Accessories",
+        "price": 59.99
+      },
+      {
+        "id": 26,
+        "name": "External SSD",
+        "desc": "500GB external solid-state drive for fast storage",
+        "image": "externassd.jpg",
+        "category": "Storage",
+        "price": 129.99
+      },
+      {
+        "id": 27,
+        "name": "Business Laptop",
+        "desc": "Business-oriented laptop with security features",
+        "image": "businesslaptop.jpg",
+        "category": "Laptops",
+        "price": 899.99
+      },
+      {
+        "id": 28,
+        "name": "Wireless Printer",
+        "desc": "Wireless color printer with mobile printing",
+        "image": "wirelessprinter.jpg",
+        "category": "Printers",
+        "price": 149.99
+      },
+      {
+        "id": 29,
+        "name": "Cable Modem",
+        "desc": "High-speed cable modem for home internet",
+        "image": "cablemodem.jpg",
+        "category": "Networking",
+        "price": 79.99
+      },
+      {
+        "id": 30,
+        "name": "Smart Home Hub",
+        "desc": "Central hub for smart home automation and control",
+        "image": "smarthomehub.jpg",
+        "category": "Smart Home",
+        "price": 69.99
+      }
+    ]
+  }
+  
